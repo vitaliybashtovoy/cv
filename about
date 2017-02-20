@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <title>cv</title>
+  </head>
+  <header>
+<div class="menu"><a href="index.html" id="logo">Main</a>
+<a href="aboutme.html" id="logo">About me</a>
+<a href="contacts.html" id="logo">Contacts</a>
+</div>
+</header>
+  
+  <body>
+<div align="center"><img src="vitalik.jpg" alt="my good foto"></div>
+<div align="center"><h2>CV</h2></div>
+<div align="center"><h2>Vitalii Bashtovyi</h2></div>
+
+
+<div style="margin-left: 40px; text-decoration: underline"><h3>Education:</h3></div>
+
+<div class="responsib">
+<span style="font-weight: bold">2005-2007</span>   National Technical University of Ukraine "Kyiv Polytechnic Institute"/Economics <br>
+<span style="font-weight: bold">2000-2005</span>   National Pedagogical Dragomanov</div>
+
+<div style="margin-left: 40px; text-decoration: underline"><h3>Additional education:</h3></div>
+
+<div class="responsib">
+<span style="font-weight: bold">2016-2017</span> QA Manual. Kitcenter <br>	
+<span style="font-weight: bold">2013</span>  «Systematic approach to training».  International Institute of Business <br>
+<span style="font-weight: bold">2012</span>  Occupational testing. SHL, Certificate Level А. <br>
+<span style="font-weight: bold">2012</span>  Occupational questionnaire. SHL, Certificate Level B.
+																										</div>
+
+<div class="headname" style="text-decoration: underline;">Tech skills:</div>
+
+<div class="responsib" ><ul><li>Knowledge of testing theory, SDLC, Agile</li>
+<li>OS Windows, Linux</li>
+<li>SQL, HTML, CSS - basic knowledge</li>
+<li>Bug Tracking systems: Jira, Testrail, Testlink. </li>
+<li>MS Office, Visio</li>
+<li>Google searching :-)</li>
+							</ul>
+								</div>
+
+
+<div style="margin-left: 40px; text-decoration: underline"><h3>Experience:</h3></div>
+
+<div class="headname">March 2009 — till now <br>
+SPE Firm «Eridon» (<a href="www.eridon.ua">www.eridon.ua</a>)<br> 
+<i>HR manager</i>
+					</div>
+
+<div class="responsib" ><ul><li>Organization of personnel selection system, coordination full cycle recruiting process;</li>
+<li>Personnel search and selection (all levels);
+</li><li>Organization of training (planning of learning programs, organization of internal and external education and trainings,<br>
+creating personal development plans);</li>
+<li>Administration of testing system SHLTOOLS;</li>
+<li>Administration of Distance Education System (Moodle, CMS Drupal);</li>
+<li>Personnel adaptation;</li>
+<li>Development and implementation HR policies and procedures;</li>
+<li>Analysis of business processes in the company, development of proposals for optimization;</li>
+<li>Formalization of the organizational structure of the Company;</li>
+<li>Budgeting (recruitment, training);</li>
+<li>Developing of job descriptions;</li> 
+<li>HR administration (partly);</li>
+<li>Providing counseling support to the company executives in HR related issues;</li>
+<li>Labor market analysis (market salary review, competitors analysis in the direction of personnel policy,<br>
+	labor legislation monitoring);</li>
+										</ul></div>
+
+<div class="headname">November 2007 — November 2008 <br>
+		Adecco Ukraine (recruiting company)<br>
+			<i>Recruitment consultant</i>
+												</div>
+
+<div class="responsib">
+	<ul>
+		<li>Coordination with the client organizational issues;</li>
+		<li>Candidates search and selection;</li>
+		<li>Organization of candidates interviewing with clients;</li>
+		<li>Participation in the process of adaptation hired personnel;</li>
+		<li>Preparation of analytical job market reviews;</li>
+		<li>Search for clients.</li>
+									</ul>
+										</div>
+
+<div class="headname">
+December 2006 — June 2007 <br>
+«Forsage» LLC (recruiting company)<br>
+<i>Recruitment consultant</i>
+									</div>
+
+<div class="responsib">
+	<ul>
+		<li>Candidates search and selection;</li>
+		<li>Organization of candidates interviewing with clients;</li>
+		<li>Participation in the process of adaptation hired personnel;</li>
+		<li>Market salary review.</li>
+							</ul>
+								</div>
+
+
+<div class="headname" style="text-decoration: underline;">Additional information: </div>
+<div class="responsib">
+	<ul>
+		<li>Driver license category «B»</li>
+											</ul>
+												</div>
+												<div align="center"><input type="button" value="Печать" onclick="print()"></input></div>
+																																			
+
+  </body>
+</html>
